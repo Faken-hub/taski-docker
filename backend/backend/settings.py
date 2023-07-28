@@ -11,8 +11,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['faken-taski.myftp.org', '127.0.0.1', 'localhost', '158.160.7.105']
 
 
-# Application definition
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
